@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\J0RDYL33\\OneDrive - University of Lincoln\\Documents\\Object-Orientated Programming\\Assignment 2\\OOP_Ass2\\OOP_Ass2\\OOP_Ass2.csproj": {}
+    "C:\\Users\\J0RDYL33\\Downloads\\Documents\\OOP_Ass2 - Copy\\OOP_Ass2\\OOP_Ass2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\J0RDYL33\\OneDrive - University of Lincoln\\Documents\\Object-Orientated Programming\\Assignment 2\\OOP_Ass2\\OOP_Ass2\\OOP_Ass2.csproj": {
+    "C:\\Users\\J0RDYL33\\Downloads\\Documents\\OOP_Ass2 - Copy\\OOP_Ass2\\OOP_Ass2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\J0RDYL33\\OneDrive - University of Lincoln\\Documents\\Object-Orientated Programming\\Assignment 2\\OOP_Ass2\\OOP_Ass2\\OOP_Ass2.csproj",
+        "projectUniqueName": "C:\\Users\\J0RDYL33\\Downloads\\Documents\\OOP_Ass2 - Copy\\OOP_Ass2\\OOP_Ass2.csproj",
         "projectName": "OOP_Ass2",
-        "projectPath": "C:\\Users\\J0RDYL33\\OneDrive - University of Lincoln\\Documents\\Object-Orientated Programming\\Assignment 2\\OOP_Ass2\\OOP_Ass2\\OOP_Ass2.csproj",
+        "projectPath": "C:\\Users\\J0RDYL33\\Downloads\\Documents\\OOP_Ass2 - Copy\\OOP_Ass2\\OOP_Ass2.csproj",
         "packagesPath": "C:\\Users\\J0RDYL33\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\J0RDYL33\\OneDrive - University of Lincoln\\Documents\\Object-Orientated Programming\\Assignment 2\\OOP_Ass2\\OOP_Ass2\\obj\\",
+        "outputPath": "C:\\Users\\J0RDYL33\\Downloads\\Documents\\OOP_Ass2 - Copy\\OOP_Ass2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\J0RDYL33\\AppData\\Roaming\\NuGet\\NuGet.Config",
