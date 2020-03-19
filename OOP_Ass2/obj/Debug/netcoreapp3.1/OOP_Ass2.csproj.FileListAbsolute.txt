@@ -1,0 +1,11 @@
+C:\Users\J0RDYL33\Downloads\Documents\OOP_Ass2\OOP_Ass2\bin\Debug\netcoreapp3.1\OOP_Ass2.exe
+C:\Users\J0RDYL33\Downloads\Documents\OOP_Ass2\OOP_Ass2\bin\Debug\netcoreapp3.1\OOP_Ass2.deps.json
+C:\Users\J0RDYL33\Downloads\Documents\OOP_Ass2\OOP_Ass2\bin\Debug\netcoreapp3.1\OOP_Ass2.runtimeconfig.json
+C:\Users\J0RDYL33\Downloads\Documents\OOP_Ass2\OOP_Ass2\bin\Debug\netcoreapp3.1\OOP_Ass2.runtimeconfig.dev.json
+C:\Users\J0RDYL33\Downloads\Documents\OOP_Ass2\OOP_Ass2\bin\Debug\netcoreapp3.1\OOP_Ass2.dll
+C:\Users\J0RDYL33\Downloads\Documents\OOP_Ass2\OOP_Ass2\bin\Debug\netcoreapp3.1\OOP_Ass2.pdb
+C:\Users\J0RDYL33\Downloads\Documents\OOP_Ass2\OOP_Ass2\obj\Debug\netcoreapp3.1\OOP_Ass2.csprojAssemblyReference.cache
+C:\Users\J0RDYL33\Downloads\Documents\OOP_Ass2\OOP_Ass2\obj\Debug\netcoreapp3.1\OOP_Ass2.AssemblyInfoInputs.cache
+C:\Users\J0RDYL33\Downloads\Documents\OOP_Ass2\OOP_Ass2\obj\Debug\netcoreapp3.1\OOP_Ass2.AssemblyInfo.cs
+C:\Users\J0RDYL33\Downloads\Documents\OOP_Ass2\OOP_Ass2\obj\Debug\netcoreapp3.1\OOP_Ass2.dll
+C:\Users\J0RDYL33\Downloads\Documents\OOP_Ass2\OOP_Ass2\obj\Debug\netcoreapp3.1\OOP_Ass2.pdb
